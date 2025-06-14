@@ -1,0 +1,21 @@
+h2{
+   font-family: Arial, sans-serif;
+   font-weight: 400;
+   margin-top: 0px;
+   margin-left: 30px;
+   font-size: 1.7rem;
+
+}
+.heading
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    margin-top: 75px;
+    width: 44%;
+}
+.line
+{
+    border-color: antiquewhite;
+}

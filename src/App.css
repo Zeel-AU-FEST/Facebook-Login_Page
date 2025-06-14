@@ -1,0 +1,9 @@
+.myapp
+{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 110px;
+  margin-left: 110px;
+  margin-right: 70px;
+}

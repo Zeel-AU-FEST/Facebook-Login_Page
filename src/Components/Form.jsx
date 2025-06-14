@@ -14,10 +14,10 @@ export default function Form()
         <form>
             <input type="email" name="Email" id="Email" placeholder="Email address or Phone Number" onChange={(e)=>changeHandler(e)}/>
             <br />
-            <input type="text" name="Password" id="Password" placeholder="Password" onChange={(e)=>changeHandler(e)} />
+            <input type="Password" name="Password" id="Password" placeholder="Password" onChange={(e)=>changeHandler(e)} />
             <br />
             <button className="Login">Log in</button>
-            <p className="para">Forgottern PassWord?</p>
+            <a href="#"className="para">Forgotten PassWord?</a>
             <hr className="line"/>
             <button className="Account">Create new account</button>
         </form>

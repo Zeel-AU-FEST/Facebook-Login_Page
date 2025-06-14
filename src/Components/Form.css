@@ -62,7 +62,8 @@ form {
     color: #1877F2;
     font-size: 0.9rem;
     margin-top: 7px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    text-decoration: none;
 }
 .formclass
 {
@@ -77,4 +78,7 @@ form {
     margin-left: 150px;
     font-size: 0.85rem;
     margin-top: 25px;
+}
+hr{
+     border-color: white;
 }
